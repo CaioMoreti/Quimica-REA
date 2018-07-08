@@ -1,0 +1,17 @@
+.containerbox{
+    width: 193px;
+    border: 1px solid #E81818;
+    height: 200px;
+    display: flex;
+}
+
+.resolucao { 
+    width: 10em;
+    height: 15em;
+    margin: 0 auto;
+}
+
+#tab1{
+	display: flex;
+
+}
